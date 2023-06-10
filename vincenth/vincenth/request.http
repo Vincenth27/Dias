@@ -1,0 +1,6 @@
+POST http://localhost:8080/wsec1e1/weekday
+Content-Type: text/xml
+
+<TranslateWeekdayRequest xmlns="http://localhost:8080/wsec1e1/">
+    <weekday>lunes</weekday>
+</TranslateWeekdayRequest>
